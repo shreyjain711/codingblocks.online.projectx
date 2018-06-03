@@ -2,12 +2,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
   <g width="100" height="100">
-      <rect x="0" y="0" width="50" height="50" fill="rgba(0,0,0,1)" rx=10 ry=10/>
+      <rect x="0" y="0" width="50" height="50" fill="rgba(0,0,0,1)" rx=10 ry=10></rect>
       <path fill="#DA2573" stroke="#DA2573" stroke-width="4" stroke-linecap="round" stroke-linejoin="miter" opacity="1" d="M -0.00012797946692444384 7.2298688888549805 L -0.0001270257926080376 29.308773040771484" transform="matrix(1 0 0 1 16.6423 8.54123)"/>
       <path fill="#DA2573" stroke="#DA2573" stroke-width="4" stroke-linecap="round" stroke-linejoin="miter" opacity="1" d="M -0.00012809706095140427 7.229869365692139 L -0.00012809706095140427 29.308767318725586" transform="matrix(0.493844 0.869551 -0.869551 0.493844 42.2402 23.3273)"/>
       <path fill="#DA2573" stroke="#DA2573" stroke-width="4" stroke-linecap="round" stroke-linejoin="miter" opacity="1" d="M -0.0001284607860725373 7.2298712730407715 L -0.00012910441728308797 29.308774948120117" transform="matrix(-0.498009 0.867172 -0.867172 -0.498009 42.0447 30.2945)"/>
       <ellipse cx="37.9092" cy="14.871" rx="1.88522" ry="1.82094" fill="#DA2573" stroke="#DA2573" stroke-width="1.03937961643866" stroke-linecap="round" stroke-linejoin="miter" opacity="1" transform="matrix(1 0 0 1 -0.729122 -1.96005)"/>
-      <rect transform="matrix(1 0 0 1 15.58 19.0337)" width="8.04249" height="15.4021" fill="#DA2573" stroke="#DA2573" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter" opacity="1" x="0" y="0" rx="1"></rect>
+      <rect transform="matrix(1 0 0 1 15.58 19.0337)" width="8.04249" height="15.4021" fill="#DA2573" stroke="#DA2573" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter" opacity="1" x="0" y="0" rx="1"/>
       <rect transform="matrix(1 0 0 1 21.1187 22.8164)" width="10.3368" height="8.03928" fill="#DA2573" stroke="#DA2573" stroke-width="0.96524454169254" stroke-linecap="round" stroke-linejoin="miter" opacity="1" x="0" y="0" rx="1"/>
   </g>
 </svg>
